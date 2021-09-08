@@ -24,6 +24,7 @@
                      <br>
                      <br>
                      <a href="#"><button>registrar</button></a>
+                     <h1>pto</h1>
                 </div>
             </div>
         </div>
