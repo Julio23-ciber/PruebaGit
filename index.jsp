@@ -25,6 +25,7 @@
                      <br>
                      <a href="#"><button>registrar</button></a>
                      <h1>pto</h1>
+                     <h3>pepe Luis</h3>
                 </div>
             </div>
         </div>
